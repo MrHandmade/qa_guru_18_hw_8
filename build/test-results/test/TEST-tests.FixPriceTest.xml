@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.FixPriceTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2023-04-09T17:38:39" hostname="KOMPUTER" time="19.213">
+  <properties/>
+  <testcase name="При выборе страны Россия на странице адресов отображается город г.Хабаровск, ул.Ленинградская, д.28/2" classname="tests.FixPriceTest" time="3.653"/>
+  <testcase name="При выборе страны Казахстан на странице адресов отображается город г.Лисаковск, мкрн.1, стр.19А" classname="tests.FixPriceTest" time="1.037"/>
+  <testcase name="При выборе города Москва, на странице адресов первым в списке отображается адрес г.Москва, ш.Варшавское, д.33, стр.12" classname="tests.FixPriceTest" time="1.885"/>
+  <testcase name="При выборе города Санкт-Петербург, на странице адресов первым в списке отображается адрес г.Санкт-Петербург, пр-т Стачек, д.21, литера А" classname="tests.FixPriceTest" time="1.571"/>
+  <testcase name="При выборе города Екатеринбург, на странице адресов первым в списке отображается адрес г.Екатеринбург, ул.Комсомольская, д.4" classname="tests.FixPriceTest" time="1.518"/>
+  <testcase name="При выборе города Нижний Новгород, на странице адресов первым в списке отображается адрес г.Нижний Новгород, ул.Аркадия Гайдара, д.24" classname="tests.FixPriceTest" time="1.309"/>
+  <testcase name="При выборе города Пермь, на странице адресов первым в списке отображается адрес г.Пермь, ул.Техническая, д.13" classname="tests.FixPriceTest" time="1.383"/>
+  <testcase name="При выборе города Новосибирск, на странице адресов первым в списке отображается адрес г.Новосибирск, пл.Карла Маркса, 5" classname="tests.FixPriceTest" time="1.26"/>
+  <testcase name="При выборе города Казань, на странице адресов первым в списке отображается адрес г.Казань, ул.Кул Гали, зд.15В" classname="tests.FixPriceTest" time="1.525"/>
+  <testcase name="При выборе города Челябинск, на странице адресов первым в списке отображается адрес г.Челябинск, ул.Тухачевского, д.16/д.16, стр.1" classname="tests.FixPriceTest" time="1.3"/>
+  <testcase name="При выборе города Краснодар, на странице адресов первым в списке отображается адрес г.Краснодар, ул.Дзержинского, д.115/1" classname="tests.FixPriceTest" time="1.175"/>
+  <testcase name="При выборе города Самара, на странице адресов первым в списке отображается адрес г.Самара, ул.Водников, д.28-30" classname="tests.FixPriceTest" time="1.25"/>
+  <testcase name="Вход по По номеру телефона на экране авторизации" classname="tests.FixPriceTest" time="0.136"/>
+  <testcase name="Вход по По email на экране авторизации" classname="tests.FixPriceTest" time="0.183"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+Starting ChromeDriver 111.0.5563.64 (c710e93d5b63b7095afe8c2c17df34408078439d-refs/branch-heads/5563@{#995}) on port 5902
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+]]></system-err>
+</testsuite>
